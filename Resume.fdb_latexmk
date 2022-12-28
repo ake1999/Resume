@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1672269791 "/home/ali/Projects/Resume/Resume.tex" "Resume.pdf" "Resume" 1672269791 0
-  "/home/ali/Projects/Resume/Resume.tex" 1672269790 12014 beccb560fbba87af5b6e4f25065c9ee7 ""
+["pdflatex"] 1672270372 "/home/ali/Projects/Resume/Resume.tex" "Resume.pdf" "Resume" 1672270372 0
+  "/home/ali/Projects/Resume/Resume.tex" 1672270370 11969 40a3d09b1a5d0d59b50bf2067482fc6f ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc" 1622837620 2920 d63721872b8c77041b88e51b8f7c291d ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc" 1622837620 3042 0e2b14b9be7d01075a4c4591d5d1781b ""
@@ -85,9 +85,9 @@
   "/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1672001503 4623329 5e28269c2aee4b9e2f0ef6bdcff03654 ""
   "/usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1672001576 7874792 0cabe914c7d14c50d5991285b9e4b59e ""
   "/usr/local/texlive/2022/texmf.cnf" 1672001499 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
-  "Resume.aux" 1672269791 14154 27bae155aae4192a39c7a529656bd425 "pdflatex"
-  "Resume.out" 1672269791 7659 b0e304c16d04c04a1501844f69f3f7fa "pdflatex"
-  "Resume.tex" 1672269790 12014 beccb560fbba87af5b6e4f25065c9ee7 ""
+  "Resume.aux" 1672270372 13977 18cd55cfab004174505d5b5a8e8f2c95 "pdflatex"
+  "Resume.out" 1672270372 7659 b0e304c16d04c04a1501844f69f3f7fa "pdflatex"
+  "Resume.tex" 1672270370 11969 40a3d09b1a5d0d59b50bf2067482fc6f ""
   (generated)
   "Resume.aux"
   "Resume.log"
