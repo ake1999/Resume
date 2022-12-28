@@ -1,6 +1,6 @@
 ---
 author:
-- Ali Karimzadeh Esfahani
+- Ali Karimzade
 title: Résumé
 ---
 <object data="./Resume.pdf" type="application/pdf" width="700px" height="700px">
