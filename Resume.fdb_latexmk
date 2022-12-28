@@ -1,8 +1,9 @@
 # Fdb version 4
-["pdflatex"] 1672136071 "/home/ali/Projects/Resume/Resume.tex" "Resume.pdf" "Resume" 1672136072 0
-  "/home/ali/Projects/Resume/Resume.tex" 1672136071 5012 9e61ee7fcbb93170e24f671492d90aa5 ""
+["pdflatex"] 1672246137 "/home/ali/Projects/Resume/Resume.tex" "Resume.pdf" "Resume" 1672246137 0
+  "/home/ali/Projects/Resume/Resume.tex" 1672246062 12213 81b2b42ef6a6b0dbd1f61775a512e18d ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc" 1622837620 2920 d63721872b8c77041b88e51b8f7c291d ""
+  "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc" 1622837620 3042 0e2b14b9be7d01075a4c4591d5d1781b ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc" 1622837620 2906 e48aa7c95dea478a2e011bcb4f7878c9 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1136768653 1536 e07581a4bb3136ece9eeb4c3ffab8233 ""
@@ -14,6 +15,7 @@
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmr17.tfm" 1136768653 1292 296a67155bdbfc32aa9c636f21e91433 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm" 1136768653 1124 6c73e740cf17375f03eec0ee63599741 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/fontawesome5/fa5brands0.tfm" 1651520503 1380 a61d7c2860b3f6d342213a6b9b229e9e ""
+  "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/fontawesome5/fa5free1solid.tfm" 1622837620 1316 1c2ee668ea88be9bd4f39690662cc344 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/fontawesome5/fa5free2solid.tfm" 1622837620 1340 b21002f38a477f345fa9dc96a5613e2b ""
   "/usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb" 1248133631 34811 78b52f49e893bcba91bd7581cdc144c0 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1248133631 32080 340ef9bf63678554ee606688e7b5339d ""
@@ -50,6 +52,7 @@
   "/usr/local/texlive/2022/texmf-dist/tex/latex/fontawesome5/fontawesome5-mapping.def" 1651520503 107808 07e47606922c76b1824e149c54155c4c ""
   "/usr/local/texlive/2022/texmf-dist/tex/latex/fontawesome5/fontawesome5.sty" 1651520503 8112 16dbb19fca3f2df864fea49874356f35 ""
   "/usr/local/texlive/2022/texmf-dist/tex/latex/fontawesome5/ufontawesomebrands0.fd" 1651520503 1206 b35c804e364d46e802702be118632c48 ""
+  "/usr/local/texlive/2022/texmf-dist/tex/latex/fontawesome5/ufontawesomefree1.fd" 1651520503 980 1b42613a5245ed252c04030af746d737 ""
   "/usr/local/texlive/2022/texmf-dist/tex/latex/fontawesome5/ufontawesomefree2.fd" 1651520503 980 38ce61da47d1ba16e56a2e312b56a515 ""
   "/usr/local/texlive/2022/texmf-dist/tex/latex/geometry/geometry.sty" 1578002852 41601 9cf6c5257b1bc7af01a58859749dd37a ""
   "/usr/local/texlive/2022/texmf-dist/tex/latex/graphics-cfg/color.cfg" 1459978653 1213 620bba36b25224fa9b7e1ccb4ecb76fd ""
@@ -82,9 +85,9 @@
   "/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1672001503 4623329 5e28269c2aee4b9e2f0ef6bdcff03654 ""
   "/usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1672001576 7874792 0cabe914c7d14c50d5991285b9e4b59e ""
   "/usr/local/texlive/2022/texmf.cnf" 1672001499 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
-  "Resume.aux" 1672136072 4574 5bb2584364713525f5212f6c539b5f9a "pdflatex"
-  "Resume.out" 1672136072 5262 0159db6e98cec7c2d4eb4f59eb9fca97 "pdflatex"
-  "Resume.tex" 1672136071 5012 9e61ee7fcbb93170e24f671492d90aa5 ""
+  "Resume.aux" 1672246137 14586 61d7a4904fc30219691dcd651261bf3b "pdflatex"
+  "Resume.out" 1672246137 7659 b0e304c16d04c04a1501844f69f3f7fa "pdflatex"
+  "Resume.tex" 1672246062 12213 81b2b42ef6a6b0dbd1f61775a512e18d ""
   (generated)
   "Resume.aux"
   "Resume.log"

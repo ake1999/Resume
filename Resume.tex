@@ -9,21 +9,25 @@
 \usepackage[none]{hyphenat}
 \usepackage[margin=0.5in]{geometry}
 
+
 \titleformat{\section}
-{\Large}
-{}{0.5em}{\bfseries\uppercase}[{\titlerule[0.1pt]}]
+{\Large}{}{0.5em}{\bfseries\uppercase}[{\titlerule[0.1pt]}]
+
 
 \titleformat{\subsection}
-{\Large\bfseries}
-{\hspace{-0.25in}$\bullet$}{0.1em}{}
-
+{\Large\bfseries}{\hspace{-0.25in}$\bullet$}{0.1em}{}
 \titlespacing{\subsection}{0em}{1em}{0em}
 
-\titleformat{\subsubsection}[runin]
-{\bfseries}
-{$\circ$ }{0em}{}[:]
 
+\titleformat{\subsubsection}[runin]
+{\bfseries}{$\circ$ }{0em}{}[:]
 \titlespacing{\subsubsection}{0em}{0.25em}{0.5em}
+
+
+\titleformat{\paragraph}
+{\normalfont\normalsize}{}{0em}{$\circ$ }
+\titlespacing{\paragraph}{0em}{0.25em}{0.4em}
+
 
 \hypersetup{
     colorlinks=true,
@@ -73,100 +77,194 @@
 \setlength{\columnsep}{3em}
 
 \begin{document}
-\pagenumbering{gobble}
-\title{R\'esum\'e}
-\author{Ali Karimzadeh Esfahani}
+    \pagenumbering{gobble}
+    \title{R\'esum\'e}
+    \author{Ali Karimzadeh Esfahani}
 
-\maketitle
+    \maketitle
 
-\section{Summary of Qualifications}
-\begin{itemize}
-    \itemsep0em 
-    \item First year MEng in mechanical engineering student at the university of Ottawa.
-    \item Excellent individual and teamwork skills honed through years of experience in university projects.
-    \item Research and analysis skills developed by working on my Bachelor of Science theses.
-\end{itemize}
-\section{Education}
-\subsection{Master of Engineering, Mechanical Engineering(Robotics)}
-University of Ottawa, ON
-\hfill
-SEP 2022 - Until now
+    \section{Summary of Qualifications}
 
-\subsubsection{Relevent Courses}
-Biomechanics of Movements, Digital Signal Processing, Applied Artificial Intelligence
+        \paragraph{First year MEng in mechanical engineering student at the university of Ottawa.}
+        \paragraph{Excellent individual and teamwork skills honed through years of experience in University projects.}
+        \paragraph{Research and analysis skills developed by working on my Bachelor of Science thesis.}
+    \section{Education}
+        \subsection{Master of Engineering, Mechanical Engineering(Robotics)}
+        University of Ottawa, ON
+        \hfill
+        SEP 2022 - Until now
 
-\subsection{Bachelor of Science, Mechanical Engineering(Robotics)}
-University of Isfahan, Isfahan, Iran
-\hfill
-SEP 2016 - OCT 2020
+        \subsubsection{Relevent Courses}
+        Biomechanics of Movements, Digital Signal Processing, Applied Artificial Intelligence
 
-\subsubsection{Bachelor's Theses}
-\href{https://github.com/ake1999/aarm}{Using Deep Reinforcement Learning algorithms to push an object with robotic Manipulators} 
+        \subsection{Bachelor of Science, Mechanical Engineering(Robotics)}
+        University of Isfahan, Isfahan, Iran
+        \hfill
+        SEP 2016 - OCT 2020
 
-{\bfseries\small Supervisor: Dr. Hossein karimpour}
-\hfill
-{\bfseries\small Grade:20/20}
+        \subsubsection{Bachelor's Theses}
+        \href{https://github.com/ake1999/aarm}{Using Deep Reinforcement Learning algorithms to push an object with robotic Manipulators} 
 
-\subsubsection{Overall GPA}
-3.46
+        {\bfseries\small Supervisor: Dr. Hossein karimpour}
+        \hfill
+        {\bfseries\small Grade:20/20}
 
-\subsubsection{Relevent Courses}
-Computer Programming, Dynamics, Dynamics of Mechanics, Mechanical Vibration, Automatic Control, Robotics, Artificial Intelligence and Expert Systems, Simulation of Dynamic Systems and Control
+        \subsubsection{Overall GPA}
+        3.46
 
-\subsubsection{Relevent Courses from MSc Programs(voluntary Participation)}
-Digital Image Processing, Robotics
+        \subsubsection{Relevent Courses}
+        Computer Programming, Dynamics, Dynamics of Mechanics, Mechanical Vibration, Automatic Control, Robotics, Artificial Intelligence and Expert Systems, Simulation of Dynamic Systems, and Control
 
-\section{Skills}
-%\begin{multicols}{1}[]
-\subsection{Engineerins Skills}
-\subsubsection{Robotics \& Reinforcement Learning}
-Robot Operating System(ROS),Gazebo, MoveIt, MuJoCo, OpenSim, LabVIEW
-\subsubsection{Machine Learning}
-TensorFlow, PyTorch, scikit-learn
-\subsubsection{Computer Vision}
-OpenCV, Matlab Image Processing Toolbox
-\subsubsection{Digital Signal Processing}
-MATLAB DSP toolbox, FIR and IIR filters, FMCW Radars
-\subsubsection{Linear control system design}
-Lead, Lag, and PID Controllers
-\subsubsection{Embedded Systems}
-Raspberry Pi, NVIDIA Jetson TX1, Arduino
-\subsubsection{Web, and Android  development}
-HTML, CSS, Tailwind CSS, React, Django, SQL, Android Studio
-\subsubsection{Operating Systems}
-Ubuntu, Windows, Debian
-\subsection{Languages}
-\subsubsection{Programming}
-Python, JavaScript, C++, Java
-\subsubsection{Markup}
-{\LaTeX}, HTML, CSS, XML, SQL
-\subsection{Soft Skills}
-\subsubsection{Quick Learner}
-I am always eager to learn new things, especially in my research area of interest.
-\subsubsection{Passionate to work in teams}
-With many projects that I have done in teams, I have experience with teamwork, and I am also good at working with Git and GitHub to ease teamworking.
-\section{Research Interests}
+        \subsubsection{Relevent Courses from MSc Programs(voluntary Participation)}
+        Digital Image Processing, Robotics
+
+    \section{Skills}
+        %\begin{multicols}{1}[]
+        \subsection{Engineering Skills}
+        \subsubsection{Robotics \& Reinforcement Learning}
+        Robot Operating System(ROS), Gazebo, MoveIt, MuJoCo, OpenSim, LabVIEW
+        \subsubsection{Machine Learning}
+        TensorFlow, PyTorch, scikit-learn
+        \subsubsection{Computer Vision}
+        OpenCV, Matlab Image Processing Toolbox
+        \subsubsection{Digital Signal Processing}
+        MATLAB DSP toolbox, FIR and IIR filters, FMCW Radars
+        \subsubsection{Linear control system design}
+        Lead, Lag, and PID Controllers
+        \subsubsection{Embedded Systems}
+        Raspberry Pi, NVIDIA Jetson TX1, Arduino
+        \subsubsection{Web, and Android  development}
+        HTML, CSS, Tailwind CSS, React, Django, SQL, Android Studio
+        \subsubsection{Operating Systems}
+        Ubuntu, Windows, Debian
+        \subsection{Languages}
+        \subsubsection{Programming}
+        Python, JavaScript, C++, Java
+        \subsubsection{Markup}
+        {\LaTeX}, HTML, CSS, XML, SQL
+        \subsection{Soft Skills}
+        \subsubsection{Quick Learner}
+        I am always eager to learn new things, especially in my research area of interest.
+        \subsubsection{Passionate to work in teams}
+        With many projects that I have done in teams, I have experience with teamwork, and I am also good at working with Git and GitHub to ease teamworking.
+
+    \section{Research Interests}
 
 
-%\end{multicols}
-\begin{multicols}{2}[]
-    \begin{itemize}
-        \itemsep0em 
-        \item Robotics
-        \item Computer vision
-        \item Digital Signal Processing
-        \item Autonomous vehicles
-        \item Machine Learning
-        \item Controller  design and Simulation
-        \item Biomechanics
-        \item Embedded systems programming
-    \end{itemize}
-\end{multicols}
+        %\end{multicols}
+        \begin{multicols}{2}[]
+            \begin{itemize}
+                \itemsep0em 
+                \item Robotics
+                \item Computer vision
+                \item Digital Signal Processing
+                \item Autonomous vehicles
+                \item Machine Learning
+                \item Controller Design and Simulation
+                \item Biomechanics
+                \item Embedded systems programming
+            \end{itemize}
+        \end{multicols}
 
-\section{Relevant Work Experience}
-\section{Academic Projects}
-\section{Honors \& Awards}
-\section{WorkshopsWorkshops \& Seminars}
-\section{Referees}
+    \section{Relevant Work Experience}
+        \subsection{Robotics Researcher}
+        {\bfseries\small Research Team Member — University Of Isfahan, Isfahan, Iran}
+        \hfill
+        {\bfseries\small JAN 2019 - JAN 2021}
+
+        \paragraph{Setting up its servo motor driver to work with Advantech PCI cards.}
+        \paragraph{Setting it up to work with ROS.}
+        \paragraph{Stimulating robot in Gazebo software.}
+        \paragraph{Designing a controller and motion planning for it in ROS environments.}
+        \subsection{Computer Vision Engineer}
+        {\bfseries\small Internship — Novinilya Company, Isfahan, Iran}
+        \hfill
+        {\bfseries\small JUN 2019 - AUG 2019}\nopagebreak
+        
+        \paragraph{I worked with Novinilya company to survey the surface quality of components in the factories'  production line.}
+        \paragraph{I worked with the R\&D team of the company to use embedded boards (Jetson TX1) and also worked with industrial cameras(Basler cameras) for classifying objects by CNN.}
+
+    \section{Academic Projects}
+
+        \subsection{Artificial Intelligence}
+
+            \paragraph{\href{https://github.com/ake1999/TD3_Ant_v4}{Implementation of Twin Delayed DDPG (TD3) algorithm for Ant robot in MuJoCo from Gym library to go forward.}}
+            \paragraph{Implementation of evolutionary algorithms like Differential Evolution Algorithm (DE) and \href{https://github.com/ake1999/MVO_MATLAB}{Multi-Verse Optimizer (MVO)}.}
+            \paragraph{\href{https://github.com/ake1999/aarm}{Implementation of DDPG and TD3 algorithms in my B.Sc thesis to push objects to their desired goal in a simulated environment with the help of hindsight experience replay paper}}
+            \paragraph{Al challenge: designing a Fruit Eater player to win a costume board game among three other players (I used Deep Q-Networks)}
+            \paragraph{Classification of cities' weather to dry or humid using unlabeled cities sensors data and Verify it with labeled data (using K-means and KNN by scikit-learn)}
+
+        \subsection{Image Processing and Computer Vision}
+
+            \paragraph{\href{https://github.com/ake1999/CNN_AlexNet}{Implementing  AlexNet to classify MNIST and CIFAR10 datasets with high accuracy}}
+            \paragraph{Projects in DIP class: Designing filters in the frequency domain and spatial domain (in OpenCV \& MATLAB )}
+            \paragraph{Sorting plastic bottle caps by color: I worked in a group of four engineers, and my duty was to design an Android Program for detecting selected colors of caps and sending commands to the Arduino board to sort them.}
+
+        \subsection{Robotics}
+
+            \paragraph{Building a handmade robot (at the University of Isfahan).}
+            \paragraph{Line Follower Robot: using image processing to find Road Direction (by android phone) and Arduino.}
+            \paragraph{experience working with KUKA LBR iiwa (at the Isfahan University of Technology(IUT)).}
+        \subsection{Digital Signal Processing}
+            \paragraph{\href{https://github.com/ake1999/FMCW_Radar_Ake}{Simulation of an FMCW Radar to detect moving objects' motion in the 300-meter range suitable for Autonomous vehicles.}}
+        \subsection{Systems and Controls}
+            \paragraph{Controlling Single Servo Motor in torque mode: using MATLAB for system identification and design PID \& Lead-Lag controller.}
+            \paragraph{using LabVIEW for implementing Keyboard Based Control with PID control.}
+            \paragraph{Designing controller for simulated 3-DOF Robot in ROS (used in bachelor's thesis).}\pagebreak
+    \section{Honors \& Awards}
+        \paragraph{Among Exceptional Talents at the University of Isfahan (2020).}
+        \paragraph{Accepted in the provincial Chemistry Olympiad (2015).}
+        \paragraph{I was among the top twenty percent of students in the Mechanical Engineering Department (2020).}
+        \paragraph{Achieve ranking of 5308 among 162879 participants in the University Entrance Examination for bachelor's degree (2016).}
+        \paragraph{Participate in Physics and Chemistry High School Lab competitions (2015).}
+    \section{WorkshopsWorkshops \& Seminars}
+        \paragraph{Completing “\href{https://coursera.org/share/727feebde54da2fa7042a84ce71c53e7}{Mathematics for Machine Learning: Linear Algebra}” course in Coursera.}
+        \paragraph{Completing “Robotics: Vision Intelligence and Machine Learning” course in edX(free).}
+        \paragraph{Workshop to make airplane models (Aero-Star \& Kadet) in a group (in 2020).}
+        \paragraph{Participation in the “Design for Manufacture and Assembly (DFMA)” seminar (in 2019).}
+        \paragraph{Participation in the workshop “making composite materials by hand lay-up method” (in 2018).}
+        \paragraph{Participation in Glider-making competitions at Sharif University of Technology(SUT) in a group of three students (in 2018).}
+    \section{Languages}
+    \subsection{Persian}
+        \paragraph{Native Speaker}
+
+    \subsection{English}
+        \subsubsection{IELTS Academic}
+        \hfill
+        {\bfseries DEC 2021}
+        \paragraph{Overall: 6.5}
+        \paragraph{Listening: 7.5}
+        \paragraph{Reading: 7}
+        \paragraph{Writing: 6}
+        \paragraph{Speaking: 5.5}
+
+    \section{Reference}
+
+        \subsection{Dr. Hossein karimpour}
+        \paragraph{\bfseries Assistant Professor, Department of Mechanical Engineering, University Of Isfahan}
+
+        \subsubsection{\large Tel} {\large +983137935603}
+        
+        \Large\href{mailto:h.karimpour@eng.ui.ac.ir}{\faIcon{envelope}}
+        \Large\href{http://eng.ui.ac.ir/~h.karimpour}{\faIcon{globe}}
+        \Large\href{https://www.linkedin.com/in/hossein-karimpour-38373811a}{\faIcon{linkedin}}
+
+        \subsection{Dr. Hossein Karshenas}
+
+        \paragraph{\bfseries Assistant Professor, Artificial Intelligence Department, University Of Isfahan}
+        \subsubsection{\large Tel} {\large +983137934534}
+        
+        \Large\href{mailto:h.karshenas@eng.ui.ac.ir}{\faIcon{envelope}}
+        \Large\href{https://engold.ui.ac.ir/~h.karshenas}{\faIcon{globe}}
+        \Large\href{https://ir.linkedin.com/in/hossein-karshenas-01102a55}{\faIcon{linkedin}}
+
+        \subsection{Dr. Mohammad Kazemi}
+
+        \paragraph{\bfseries Assistant Professor, Department of Electrical Engineering, University Of Isfahan}
+        \subsubsection{\large Tel} {\large +983137937010}
+        
+        \Large\href{mailto:m.kazemi@eng.ui.ac.ir}{\faIcon{envelope}}
+        \Large\href{https://engold.ui.ac.ir/~m.kazemi}{\faIcon{globe}}
+        \Large\href{https://ir.linkedin.com/in/mohammad-kazemi-602a2722}{\faIcon{linkedin}}
 
 \end{document}
