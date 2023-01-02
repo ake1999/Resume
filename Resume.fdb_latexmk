@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1672310714 "/home/ali/Projects/Resume/Resume.tex" "Resume.pdf" "Resume" 1672310714 0
-  "/home/ali/Projects/Resume/Resume.tex" 1672278833 11995 d18074b16ebf478ce6d6446d4c47ab11 ""
+["pdflatex"] 1672633636 "/home/ali/Projects/Resume/Resume.tex" "Resume.pdf" "Resume" 1672633636 0
+  "/home/ali/Projects/Resume/Resume.tex" 1672633635 11907 f863356dff8464ab21658cee5a25d204 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc" 1622837620 2920 d63721872b8c77041b88e51b8f7c291d ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc" 1622837620 3042 0e2b14b9be7d01075a4c4591d5d1781b ""
@@ -13,6 +13,7 @@
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1136768653 1524 4414a8315f39513458b80dfc63bff03a ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmr12.tfm" 1136768653 1288 655e228510b4c2a1abe905c368440826 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmr17.tfm" 1136768653 1292 296a67155bdbfc32aa9c636f21e91433 ""
+  "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmr9.tfm" 1136768653 1292 6b21b9c2c7bebb38aa2273f7ca0fb3af ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm" 1136768653 1124 6c73e740cf17375f03eec0ee63599741 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/fontawesome5/fa5brands0.tfm" 1651520503 1380 a61d7c2860b3f6d342213a6b9b229e9e ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/fontawesome5/fa5free1solid.tfm" 1622837620 1316 1c2ee668ea88be9bd4f39690662cc344 ""
@@ -85,9 +86,9 @@
   "/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1672001503 4623329 5e28269c2aee4b9e2f0ef6bdcff03654 ""
   "/usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1672001576 7874792 0cabe914c7d14c50d5991285b9e4b59e ""
   "/usr/local/texlive/2022/texmf.cnf" 1672001499 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
-  "Resume.aux" 1672310714 13999 db57deff69e98a3e88976ab1f8e0ef53 "pdflatex"
-  "Resume.out" 1672310714 7659 b0e304c16d04c04a1501844f69f3f7fa "pdflatex"
-  "Resume.tex" 1672278833 11995 d18074b16ebf478ce6d6446d4c47ab11 ""
+  "Resume.aux" 1672633636 11150 11b1d88d8778e34dc45abe3ba851b01f "pdflatex"
+  "Resume.out" 1672633636 6956 43bb0c117b57628e501471690759f729 "pdflatex"
+  "Resume.tex" 1672633635 11907 f863356dff8464ab21658cee5a25d204 ""
   (generated)
   "Resume.aux"
   "Resume.log"
