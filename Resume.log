@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.25)  2 JAN 2023 19:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.25)  2 JAN 2023 20:02
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -322,15 +322,15 @@ Package hyperref Info: Link coloring ON on input line 88.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(48.36967pt, 526.37598pt, 22.76222pt)
-* v-part:(T,H,B)=(28.45274pt, 796.67715pt, 19.91695pt)
+* h-part:(L,W,R)=(42.67912pt, 526.37598pt, 28.45277pt)
+* v-part:(T,H,B)=(34.1433pt, 782.45078pt, 28.45277pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
 * \textwidth=526.37598pt
-* \textheight=796.67715pt
-* \oddsidemargin=-23.90031pt
-* \evensidemargin=-23.90031pt
-* \topmargin=-80.81725pt
+* \textheight=782.45078pt
+* \oddsidemargin=-29.59087pt
+* \evensidemargin=-29.59087pt
+* \topmargin=-75.1267pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=10.0pt
@@ -371,8 +371,8 @@ LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <14.4> not
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.274 \end{document}
-                     [2] (./Resume.aux)
+l.272         \end{multicols}
+                              [2] (./Resume.aux)
 Package rerunfilecheck Info: File `Resume.out' has not changed.
 (rerunfilecheck)             Checksum: 43BB0C117B57628E501471690759F729;6956.
  ) 
@@ -385,7 +385,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  72i,5n,77p,460b,583s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on Resume.pdf (2 pages, 166970 bytes).
+Output written on Resume.pdf (2 pages, 167310 bytes).
 PDF statistics:
  322 PDF objects out of 1000 (max. 8388607)
  294 compressed objects within 3 object streams
