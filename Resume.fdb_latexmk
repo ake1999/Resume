@@ -1,10 +1,11 @@
 # Fdb version 4
-["pdflatex"] 1673103638 "/home/ali/Projects/Resume/Resume.tex" "Resume.pdf" "Resume" 1673103638 0
-  "/home/ali/Projects/Resume/Resume.tex" 1673103636 12138 8613a706a9f0d15f2a22fa730e2e55de ""
+["pdflatex"] 1677108320 "/home/ali/Projects/Resume/Resume.tex" "Resume.pdf" "Resume" 1677108321 0
+  "/home/ali/Projects/Resume/Resume.tex" 1677108320 12770 40b1a55113c54b2c8a2bae46769e4267 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc" 1622837620 2920 d63721872b8c77041b88e51b8f7c291d ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc" 1622837620 3042 0e2b14b9be7d01075a4c4591d5d1781b ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc" 1622837620 2906 e48aa7c95dea478a2e011bcb4f7878c9 ""
+  "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free3.enc" 1622837620 2905 1556c73dc99638e0dfff2f132c244f30 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1136768653 1536 e07581a4bb3136ece9eeb4c3ffab8233 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
@@ -18,6 +19,7 @@
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/fontawesome5/fa5brands0.tfm" 1651520503 1380 a61d7c2860b3f6d342213a6b9b229e9e ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/fontawesome5/fa5free1solid.tfm" 1622837620 1316 1c2ee668ea88be9bd4f39690662cc344 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/fontawesome5/fa5free2solid.tfm" 1622837620 1340 b21002f38a477f345fa9dc96a5613e2b ""
+  "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/fontawesome5/fa5free3solid.tfm" 1622837620 1236 01f4577264ada23bfb25b6d983302f6b ""
   "/usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb" 1248133631 34811 78b52f49e893bcba91bd7581cdc144c0 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1248133631 32080 340ef9bf63678554ee606688e7b5339d ""
   "/usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb" 1248133631 32298 c6d25bb16d1eac01ebdc6d7084126a1e ""
@@ -55,6 +57,7 @@
   "/usr/local/texlive/2022/texmf-dist/tex/latex/fontawesome5/ufontawesomebrands0.fd" 1651520503 1206 b35c804e364d46e802702be118632c48 ""
   "/usr/local/texlive/2022/texmf-dist/tex/latex/fontawesome5/ufontawesomefree1.fd" 1651520503 980 1b42613a5245ed252c04030af746d737 ""
   "/usr/local/texlive/2022/texmf-dist/tex/latex/fontawesome5/ufontawesomefree2.fd" 1651520503 980 38ce61da47d1ba16e56a2e312b56a515 ""
+  "/usr/local/texlive/2022/texmf-dist/tex/latex/fontawesome5/ufontawesomefree3.fd" 1651520503 980 2697c93582246b8da75635f956e941ff ""
   "/usr/local/texlive/2022/texmf-dist/tex/latex/geometry/geometry.sty" 1578002852 41601 9cf6c5257b1bc7af01a58859749dd37a ""
   "/usr/local/texlive/2022/texmf-dist/tex/latex/graphics-cfg/color.cfg" 1459978653 1213 620bba36b25224fa9b7e1ccb4ecb76fd ""
   "/usr/local/texlive/2022/texmf-dist/tex/latex/graphics-def/pdftex.def" 1663965824 19448 1e988b341dda20961a6b931bcde55519 ""
@@ -86,9 +89,9 @@
   "/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1672001503 4623329 5e28269c2aee4b9e2f0ef6bdcff03654 ""
   "/usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1672001576 7874792 0cabe914c7d14c50d5991285b9e4b59e ""
   "/usr/local/texlive/2022/texmf.cnf" 1672001499 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
-  "Resume.aux" 1673103638 11387 7a9e6cb022efa845cea653cf6f52d623 "pdflatex"
-  "Resume.out" 1673103638 7047 f5e3112202aaadf6a654134fb74790bc "pdflatex"
-  "Resume.tex" 1673103636 12138 8613a706a9f0d15f2a22fa730e2e55de ""
+  "Resume.aux" 1677108321 11185 e0513998830ff7d6a3b26b0eefb8a3e3 "pdflatex"
+  "Resume.out" 1677108321 6979 5b5d249c2b6bf14a9666d834df9f40ed "pdflatex"
+  "Resume.tex" 1677108320 12770 40b1a55113c54b2c8a2bae46769e4267 ""
   (generated)
   "Resume.aux"
   "Resume.log"

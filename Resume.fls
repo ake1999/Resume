@@ -549,9 +549,15 @@ INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/fontawesome5/ufontawesomefree
 INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/fontawesome5/ufontawesomefree1.fd
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/fontawesome5/fa5free1solid.tfm
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/fontawesome5/fa5brands0.tfm
+INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/fontawesome5/ufontawesomefree3.fd
+INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/fontawesome5/ufontawesomefree3.fd
+INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/fontawesome5/ufontawesomefree3.fd
+INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/fontawesome5/ufontawesomefree3.fd
+INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/fontawesome5/fa5free3solid.tfm
 INPUT Resume.aux
 INPUT ./Resume.out
 INPUT ./Resume.out
+INPUT /usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free3.enc
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc
