@@ -1,11 +1,11 @@
 # Fdb version 4
-["xdvipdfmx"] 1694741498 "Resume.xdv" "Resume.pdf" "Resume" 1694741499 0
-  "Resume.xdv" 1694741498 94600 38d5f1369ab1cf3167fbbea101130875 "xelatex"
+["xdvipdfmx"] 1694742059 "Resume.xdv" "Resume.pdf" "Resume" 1694742060 0
+  "Resume.xdv" 1694742059 94600 76b0567999b8858da5b4e2b428ec82cd "xelatex"
   (generated)
   "Resume.pdf"
   (rewritten before read)
-["xelatex"] 1694741496 "/home/ali/Projects/Resume/Resume.tex" "Resume.xdv" "Resume" 1694741499 0
-  "/home/ali/Projects/Resume/Resume.tex" 1694741454 14964 78a8eebaced60b63d5a9585222ad5426 ""
+["xelatex"] 1694742058 "/home/ali/Projects/Resume/Resume.tex" "Resume.xdv" "Resume" 1694742060 0
+  "/home/ali/Projects/Resume/Resume.tex" 1694742044 14964 64a39cb954723e2d8c5d1f9a486a7e34 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1136768653 1524 4414a8315f39513458b80dfc63bff03a ""
@@ -85,9 +85,9 @@
   "/usr/local/texlive/2023/texmf-dist/web2c/texmf.cnf" 1681165822 40967 d940221f8762fd5848760382d97d1226 ""
   "/usr/local/texlive/2023/texmf-var/web2c/xetex/xelatex.fmt" 1683193905 10505687 10f68b60a302dce54adbc1d0bdb5a6e9 ""
   "/usr/local/texlive/2023/texmf.cnf" 1683193837 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
-  "Resume.aux" 1694741498 14155 f1917cb36f58046fbb6c5d110f437f7b "xelatex"
-  "Resume.out" 1694741498 7448 96a0e6a46b0eea18618394b6779952a3 "xelatex"
-  "Resume.tex" 1694741454 14964 78a8eebaced60b63d5a9585222ad5426 ""
+  "Resume.aux" 1694742059 14155 1bfc561c98e45f0dfb4ec72a11b31706 "xelatex"
+  "Resume.out" 1694742059 7448 ebd2d580dbc7c10222664f5871e8520e "xelatex"
+  "Resume.tex" 1694742044 14964 64a39cb954723e2d8c5d1f9a486a7e34 ""
   (generated)
   "Resume.aux"
   "Resume.log"

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.5.4)  14 SEP 2023 21:31
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.5.4)  14 SEP 2023 21:40
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -854,7 +854,7 @@ Requested font "[FontAwesome5Brands-Regular-400.otf]:script=latn;" at 14.4pt
  -> /usr/local/texlive/2023/texmf-dist/fonts/opentype/public/fontawesome5/FontAwesome5Brands-Regular-400.otf
  [3] (./Resume.aux)
 Package rerunfilecheck Info: File `Resume.out' has not changed.
-(rerunfilecheck)             Checksum: 96A0E6A46B0EEA18618394B6779952A3;7448.
+(rerunfilecheck)             Checksum: EBD2D580DBC7C10222664F5871E8520E;7448.
  ) 
 Here is how much of TeX's memory you used:
  14317 strings out of 476660
